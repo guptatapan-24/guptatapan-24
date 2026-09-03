@@ -207,8 +207,8 @@ Last updated: September 2026
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=guptatapan-24&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=c9d1d9&icon_color=00ff9d" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptatapan-24&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats-hazel-iota-16.vercel.app/api?username=guptatapan-24&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=c9d1d9&icon_color=00ff9d" height="165"/>
+<img src="https://github-readme-stats-hazel-iota-16.vercel.app/api/top-langs/?username=guptatapan-24&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=c9d1d9" height="165"/>
 
 <br>
 
