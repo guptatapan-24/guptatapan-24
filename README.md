@@ -1,233 +1,43 @@
-<div align="center">
+# Hi 👋, I'm Tapan Gupta
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00c97e&height=200&section=header&text=TAPAN%20GUPTA&fontSize=48&fontColor=00ff9d&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineering%20%C2%B7%20AI%2FML%20%C2%B7%20Blockchain&descAlignY=58&descColor=c9d1d9" width="100%"/>
+### Full Stack Engineer | AI/ML Builder | Blockchain Developer
 
-<a href="https://www.linkedin.com/in/tapan-gupta-bbba68316/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff9d" />
-</a>
-<a href="https://leetcode.com/u/ayIndran/">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=00ff9d" />
-</a>
-<a href="mailto:tapangupta.2401@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff9d" />
-</a>
-<a href="https://github.com/guptatapan-24">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff9d" />
-</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guptatapan-24&label=Profile views&color=0e75b6&style=flat" alt="guptatapan-24" /> </p>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+backend+systems+that+scale;Training+ML+models+that+explain+themselves;Shipping+dApps+on+Solana;360%2B+LeetCode+%C2%B7+9.87+CGPA&font=Fira+Code&center=true&width=650&height=40&color=00FF9D&vCenter=true&size=18&pause=1200&background=00000000" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guptatapan-24" alt="guptatapan-24" /></a> </p>
 
-</div>
+- 🔭 I'm currently working on **AI-powered applications, scalable backend systems, and Solana programs.**
 
-<br>
+- 🌱 I'm currently learning **System Design, LLM/RAG applications, distributed systems, and advanced Solana development.**
 
-## `SYSTEM_STATUS`
+- 👯 I'm looking to collaborate on **Open-source projects involving AI/ML, backend engineering, developer tools, and blockchain.**
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                     TAPAN // PROFILE                         │
-├──────────────────────────────────────────────────────────────┤
-│  🎓  RV College of Engineering          CGPA  : 9.87         │
-│  📈  3rd Semester                       SGPA  : 10.0         │
-│  🧠  LeetCode                                 : 360+ solved  │
-│  ⛓️  BlockQuest Fellowship              Rank  : 7 / 100+     │
-│  🏆  AI for Bharat Hackathon            Top   : 50 / 13,500+ │
-│  🥇  CloneFest, RVCE                    Result: 1st Prize    │
-└──────────────────────────────────────────────────────────────┘
-```
+- 🤝 I'm looking for help with **Designing scalable distributed systems and production-grade AI applications.**
 
-<br>
+- 💬 Ask me about **FastAPI, backend development, AI/ML, LLM integration, Solana, and building full-stack applications.**
 
-## `ABOUT_ME`
+- 📫 How to reach me **tapangupta.2401@gmail.com**
 
-```text
-$ whoami
-CSE student at RVCE, building backend systems, ML pipelines,
-and Solana programs — and trying to understand each one deeply
-enough to explain it, not just ship it.
+- ⚡ Fun fact **I have a suspicious habit of turning “what if I built this?” into a GitHub repository.**
 
-$ focus --current
-→ Backend engineering & systems design
-→ Applied ML / explainable AI
-→ Solana / Anchor development
-→ Data Structures & Algorithms
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1LqADY5RRyDpqRmhQUPtclFhFJXnm9q0-/view?usp=sharing](https://drive.google.com/file/d/1LqADY5RRyDpqRmhQUPtclFhFJXnm9q0-/view?usp=sharing)**
 
-$ philosophy
-Build it. Break it. Understand why. Build it better.
-```
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/guptatapan-24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="guptatapan-24" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tapan-gupta-bbba68316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tapan-gupta-bbba68316" height="30" width="40" /></a>
+<a href="https://instagram.com/tapangupta.24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tapangupta.24" height="30" width="40" /></a>
+<a href="https://hackerrank.com/gupta_tapan2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gupta_tapan2006" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/igniv0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="igniv0x" height="30" width="40" /></a>
+<a href="https://leetcode.com/ayIndran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayIndran" height="30" width="40" /></a>
+</p>
 
-<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
 
-## `./featured_projects`
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guptatapan-24&show_icons=true&locale=en&layout=compact" alt="guptatapan-24" /></p>
 
-<img src="./assets/architecture-diagram.svg" width="100%" alt="Three-layer architecture: Applications, Intelligence, Decentralization"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guptatapan-24&show_icons=true&locale=en" alt="guptatapan-24" /></p>
 
-<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guptatapan-24&" alt="guptatapan-24" /></p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚌 CampusPool
-**RVCE Ride-Sharing Platform**
-
-`FastAPI` `React` `MongoDB` `Socket.IO`
-
-Full-stack ride-sharing platform for RVCE students — ride lifecycle, real-time chat, SOS alerts, ID verification, admin moderation.
-
-- 177+ students surveyed · 40+ interviews
-- 84% positive adoption intent
-- Concurrency-safe ride-request workflows
-
-<!-- Record a 10–15s screen capture (e.g. ride creation → chat → SOS flow)
-     and place it at assets/campuspool-demo.gif, then uncomment: -->
-<!-- <img src="./assets/campuspool-demo.gif" width="100%"/> -->
-
-[🌐 Live Demo](https://dtl-third-sem.vercel.app/) · [💻 Source](https://www.github.com/guptatapan-24/dtl-third-sem/tree/tapan/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ VeriRisk
-**Verifiable AI Risk Oracle for DeFi**
-
-`XGBoost` `FastAPI` `Next.js` `SHAP` `Soroban`
-
-Explainable DeFi risk-prediction system with on-chain verification.
-
-- 0.91 ROC-AUC
-- Early-warning signals 24–600+ hrs pre-crash
-- SHAP-based explainability, Soroban verification
-
-<!-- <img src="./assets/verirsk-demo.gif" width="100%"/> -->
-
-[💻 Source](https://www.github.com/guptatapan-24/el-second-year/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔋 Battery RUL Prediction
-**Physics-Informed Degradation Modeling**
-
-`XGBoost` `LSTM` `FastAPI` `Streamlit`
-
-Physics-informed RUL prediction pipeline for lithium-ion batteries.
-
-- MAE: 66.7 → **5.06** cycles
-- R²: −0.33 → **0.99**
-- Presented at ICAMAS Conference, NIT Arunachal Pradesh
-
-<!-- <img src="./assets/battery-rul-demo.gif" width="100%"/> -->
-
-[💻 Source](https://www.github.com/guptatapan-24/material-science-el-3rd-sem/)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚽ FanIQ
-**AI-Powered Fan Behavior & Engagement Intelligence**
-
-`LightGBM` `SHAP` `LLMs` `Python`
-
-Operations-intelligence platform for FIFA-scale events — forecasting, segmentation, anomaly detection, grounded LLM analytics.
-
-- 0.90 test R² (demand forecasting)
-- 50K fans · 3.8M+ tickets · 66K+ social events
-- 62/62 validation checks passing
-
-<!-- <img src="./assets/faniq-demo.gif" width="100%"/> -->
-
-[💻 Source](https://www.github.com/guptatapan-24/fan-iq/)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## `BLOCKCHAIN_LOG` — BlockQuest Fellowship
-
-```text
-Rank 7 / 100+ participants
-
-Solana
-  ├── Anchor Programs
-  ├── PDAs
-  ├── SOL Transfers
-  ├── SPL Tokens
-  ├── CPIs
-  └── On-chain Events
-```
-
-**Assignment 01 — Piggy Bank** · PDA-based state, SOL deposits, owner-authorized withdrawals, unauthorized-access protection
-
-**Assignment 02 — Token Presale dApp** · Anchor · SPL Tokens · backend services · on-chain events · frontend integration
-
-<br>
-
-## `TECH_STACK`
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,py,js,ts,c,react,nextjs,nodejs,fastapi,mongodb,postgres,redis,docker,solana,git,linux&theme=dark" />
-</div>
-
-**AI / ML** — XGBoost · LightGBM · LSTM · Random Forest · SHAP · LLM Integration
-**Blockchain** — Solana · Anchor · SPL Tokens · PDAs · CPIs · Soroban
-
-<br>
-
-## `ACHIEVEMENTS`
-
-| | |
-|---|---|
-| 🏆 **Top 50** | AI for Bharat Hackathon — 13,500+ teams nationwide |
-| 🥈 **National Semifinalist** | Smart India Hackathon (SIH) 2025 |
-| 🏅 **National Semifinalist** | Unisys Innovation Program |
-| 🥇 **1st Prize** | CloneFest, RVCE |
-| ⛓️ **Rank 7 / 100+** | BlockQuest Fellowship |
-
-<br>
-
-## `CURRENTLY_EXPLORING`
-
-```text
-→ Distributed systems & backend infrastructure
-→ Production-grade AI systems
-→ Solana / Anchor development
-→ Advanced DSA
-
-Last updated: September 2026
-```
-
-<br>
-
-## `ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-stats-hazel-iota-16.vercel.app/api?username=guptatapan-24&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=c9d1d9&icon_color=00ff9d" height="165"/>
-<img src="https://github-readme-stats-hazel-iota-16.vercel.app/api/top-langs/?username=guptatapan-24&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=c9d1d9" height="165"/>
-
-<br>
-
-<!-- Snake animation: requires a one-time GitHub Action setup (see below). -->
-<img src="https://raw.githubusercontent.com/guptatapan-24/guptatapan-24/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-```text
-$ git log --stats
-✓ Learning   ✓ Building   ✓ Experimenting   ✓ Solving
-```
-
-Thanks for stopping by.
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c97e,100:0d1117&height=100&section=footer" width="100%"/>
