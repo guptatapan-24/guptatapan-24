@@ -25,14 +25,14 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│                     TAPAN // PROFILE                          │
+│                     TAPAN // PROFILE                         │
 ├──────────────────────────────────────────────────────────────┤
-│  🎓  RV College of Engineering          CGPA  : 9.87          │
-│  📈  3rd Semester                       SGPA  : 10.0          │
-│  🧠  LeetCode                                 : 360+ solved   │
-│  ⛓️   BlockQuest Fellowship              Rank  : 7 / 100+      │
-│  🏆  AI for Bharat Hackathon             Top   : 50 / 13,500+ │
-│  🥇  CloneFest, RVCE                     Result: 1st Prize    │
+│  🎓  RV College of Engineering          CGPA  : 9.87         │
+│  📈  3rd Semester                       SGPA  : 10.0         │
+│  🧠  LeetCode                                 : 360+ solved  │
+│  ⛓️  BlockQuest Fellowship              Rank  : 7 / 100+     │
+│  🏆  AI for Bharat Hackathon            Top   : 50 / 13,500+ │
+│  🥇  CloneFest, RVCE                    Result: 1st Prize    │
 └──────────────────────────────────────────────────────────────┘
 ```
 
