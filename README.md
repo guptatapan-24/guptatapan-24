@@ -81,10 +81,6 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph-kappa-sandy.vercel.app/graph?username=guptatapan-24&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
-</p>
-
-<p align="center">
 <img src="https://streak-stats.demolab.com/?user=guptatapan-24&theme=transparent" alt="GitHub contribution streak" />
 </p>
 
@@ -181,7 +177,7 @@ Demand forecasting, fan segmentation, crowd simulation, anomaly detection, and g
 <h2 align="center">🎯 Contribution Graph</h2>
 
 <p align="center">
-<img src="https://www.github-readme-activity-graph-kappa-sandy.vercel.app/graph?username=guptatapan-24&bg_color=0d1117&color=58a6ff&line=2ea043&point=f0f6fc&area_color=1f6feb&area=true&hide_border=true" alt="GitHub commit graph" />
+<img src="https://github-readme-activity-graph-kappa-sandy.vercel.app/graph?username=guptatapan-24&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 </p>
 
 <p align="center">
