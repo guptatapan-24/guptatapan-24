@@ -70,8 +70,9 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=guptatapan-24&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="180" alt="GitHub statistics" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=guptatapan-24&layout=compact&hide_border=true&langs_count=8" height="180" alt="Top languages" />
+  <!-- https://github-stats-extended.vercel.app/api?username=anuraghazra&include_all_commits=true&theme=transparent -->
+<img src="https://github-stats-extended.vercel.app/api?username=guptatapan-24&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="180&theme=transparent" alt="GitHub statistics" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=guptatapan-24&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="180" alt="Top languages" />
 </p>
 
 <p align="center">
