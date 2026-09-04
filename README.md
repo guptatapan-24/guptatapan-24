@@ -85,7 +85,7 @@
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=guptatapan-24&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com/?user=guptatapan-24&theme=transparent" alt="GitHub contribution streak" />
 </p>
 
 ---
