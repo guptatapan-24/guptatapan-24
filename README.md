@@ -70,7 +70,7 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  https://github-stats-extended.vercel.app/api?username=anuraghazra&include_all_commits=true&theme=transparent
+  <!-- https://github-stats-extended.vercel.app/api?username=anuraghazra&include_all_commits=true&theme=transparent -->
   <!-- https://github-stats-extended.vercel.app/api?username=anuraghazra&include_all_commits=true&theme=transparent -->
 <img src="https://github-stats-extended.vercel.app/api?username=guptatapan-24&show_icons=true&rank_icon=github&include_all_commits=true&theme=transparent" height="180" alt="GitHub statistics" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=guptatapan-24&layout=compact&langs_count=8&theme=transparent" height="180" alt="Top languages" />
