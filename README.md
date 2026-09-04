@@ -3,10 +3,6 @@
 ### Full Stack Engineer | AI/ML Builder | Blockchain Developer
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=guptatapan-24&label=Profile views&color=0e75b6&style=flat" alt="guptatapan-24" />
-</p>
-
-<p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-unserori.vercel.app/?username=guptatapan-24&theme=darkhub&no-frame=true&margin-w=8&row=1&column=6" alt="guptatapan-24" /></a>
 </p>
 
