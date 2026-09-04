@@ -175,7 +175,7 @@ Demand forecasting, fan segmentation, crowd simulation, anomaly detection, and g
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=guptatapan-24&theme=darkhub&no-frame=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
+<img src="https://github-profile-trophy-unserori.vercel.app/?username=guptatapan-24&theme=darkhub&no-frame=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
 </p>
 
 ---
